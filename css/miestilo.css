@@ -1,0 +1,103 @@
+.icon-lg {
+    font-size: 50px;
+    color: #198754;
+}
+
+#topbar {
+    background-color: #09947d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#topbar span{
+    color: white;
+    font-weight: bold;
+}
+
+.margintopbar{
+    margin-right: 20px;
+}
+
+#infpoiconos {
+    color: white ;
+    font-weight: bolder;
+    margin-right: 20px;
+
+}
+
+#hero{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgb(240, 240, 240);
+}
+
+.img-redonda{
+    border-radius: 20px;
+}
+
+#villian{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.icon-tam{
+    font-size: 60px;
+    color: #198754;
+    background-color: #dbf7e8;
+    border-radius: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.titulo-about{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.numeros{
+    font-size: 60px;
+    font-weight: lighter;
+    color: #198754;
+}
+
+.letrasgris{
+    color: rgb(136, 136, 136);
+    text-transform: capitalize;
+}
+
+#newsletter{
+    background-color: #09947805;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+#futer{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgb(247, 247, 247);
+}
+
+.linkc{
+    color: rgb(92, 92, 92);
+    
+}
+
+.linea{
+    text-decoration: none;
+}
+
+.futeri{
+    color: #198754;
+}
+
+.futerf{
+    text-align: center;
+}
+
+.cspan{
+    color: #09947d;
+}
